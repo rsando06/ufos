@@ -1,4 +1,4 @@
-# Election Analysis
+# UFO Analysis
 
 ## Project Overview
 This project focuses on building a webpage that displays information on UFO sightings based on the user's input based on multiple criteria.
